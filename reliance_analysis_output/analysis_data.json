@@ -1,0 +1,27 @@
+{
+  "symbol": "RELIANCE.NS",
+  "company_name": "Reliance Industries Limited",
+  "analysis_date": "2025-07-19T04:24:19.665569",
+  "current_price": 1476.0,
+  "daily_change": -0.4000244140625,
+  "daily_change_percent": -0.027094581918696292,
+  "volume": 10296318,
+  "technical_indicators": {
+    "rsi": 40.63928043558842,
+    "macd": 9.654966331529522,
+    "sma_20": 1499.8050109863282,
+    "sma_50": 1459.1100073242187
+  },
+  "pattern_counts": {
+    "Doji": 29,
+    "Hammer": 0,
+    "Shooting_Star": 0,
+    "Bullish_Engulfing": 24,
+    "Bearish_Engulfing": 35
+  },
+  "risk_metrics": {
+    "volatility": 21.200332979039793,
+    "max_drawdown": 26.52285658969424,
+    "sharpe_ratio": -0.22221934821510897
+  }
+}

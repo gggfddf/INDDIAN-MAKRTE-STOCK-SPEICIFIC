@@ -1,0 +1,35 @@
+RELIANCE INDUSTRIES LIMITED (RELIANCE.NS) ANALYSIS REPORT
+============================================================
+
+Analysis Date: 2025-07-19 04:24:19
+
+CURRENT MARKET DATA:
+Current Price: ₹1476.00
+Daily Change: ₹-0.40 (-0.03%)
+Volume: 10,296,318
+52-Week High: ₹1588.51
+52-Week Low: ₹1114.85
+
+TECHNICAL ANALYSIS SUMMARY:
+RSI (14): 40.64 (Neutral)
+Price vs SMA 20: Below
+Price vs SMA 50: Above
+SMA 20 vs SMA 50: Bullish
+
+RISK METRICS:
+Annualized Volatility: 21.20%
+Maximum Drawdown: 26.52%
+
+FILES GENERATED:
+- Price analysis charts (PNG)
+- Pattern analysis chart (PNG)
+- Correlation heatmap (PNG)
+- Interactive chart (HTML)
+- Excel report with data
+- JSON data export
+
+DISCLAIMER:
+This analysis is for educational and informational purposes only.
+It should not be considered as investment advice.
+Please consult with a qualified financial advisor before making
+any investment decisions.
