@@ -1,0 +1,173 @@
+{
+  "report_title": "COMPREHENSIVE PREDICTION REPORT - ALL TIMEFRAMES",
+  "symbol": "^NSEI",
+  "company_name": "NIFTY 50 Index",
+  "analysis_timestamp": "2025-07-19T06:11:16.309392",
+  "timeframe_predictions": {
+    "5m": {
+      "timeframe_name": "5-Minute",
+      "direction_prediction": "NEUTRAL",
+      "confidence_percentage": "50.0%",
+      "risk_level": "HIGH",
+      "current_price_inr": "\u20b924,965.55",
+      "upside_target_inr": "\u20b925,090.95",
+      "downside_target_inr": "\u20b924,840.15",
+      "upside_movement_percent": "+0.50%",
+      "downside_movement_percent": "-0.50%",
+      "upside_probability": "50.0%",
+      "downside_probability": "50.0%",
+      "confidence_interval_lower": "\u20b924,943.21",
+      "confidence_interval_upper": "\u20b924,987.90",
+      "confidence_range": "\u20b944.69",
+      "expected_move_percent": "0.50%",
+      "time_horizons": {
+        "short": "1 hour",
+        "medium": "4 hours",
+        "long": "1 day"
+      },
+      "specific_prediction_text": "50% chance of neutral move to \u20b924840.15 by 1 hour with 22.35 confidence interval",
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "volatility_percentile": 0.6318450232000852,
+      "volume_trend": NaN
+    },
+    "15m": {
+      "timeframe_name": "15-Minute",
+      "direction_prediction": "NEUTRAL",
+      "confidence_percentage": "50.0%",
+      "risk_level": "HIGH",
+      "current_price_inr": "\u20b924,965.55",
+      "upside_target_inr": "\u20b925,167.36",
+      "downside_target_inr": "\u20b924,763.74",
+      "upside_movement_percent": "+0.81%",
+      "downside_movement_percent": "-0.81%",
+      "upside_probability": "50.0%",
+      "downside_probability": "50.0%",
+      "confidence_interval_lower": "\u20b924,914.36",
+      "confidence_interval_upper": "\u20b925,016.74",
+      "confidence_range": "\u20b9102.38",
+      "expected_move_percent": "0.81%",
+      "time_horizons": {
+        "short": "2 hours",
+        "medium": "8 hours",
+        "long": "2 days"
+      },
+      "specific_prediction_text": "50% chance of neutral move to \u20b924763.74 by 2 hours with 51.19 confidence interval",
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "volatility_percentile": 0.4776506053361097,
+      "volume_trend": NaN
+    },
+    "1h": {
+      "timeframe_name": "1-Hour",
+      "direction_prediction": "NEUTRAL",
+      "confidence_percentage": "50.0%",
+      "risk_level": "HIGH",
+      "current_price_inr": "\u20b924,965.55",
+      "upside_target_inr": "\u20b925,273.65",
+      "downside_target_inr": "\u20b924,657.45",
+      "upside_movement_percent": "+1.23%",
+      "downside_movement_percent": "-1.23%",
+      "upside_probability": "50.0%",
+      "downside_probability": "50.0%",
+      "confidence_interval_lower": "\u20b924,826.47",
+      "confidence_interval_upper": "\u20b925,104.63",
+      "confidence_range": "\u20b9278.15",
+      "expected_move_percent": "1.23%",
+      "time_horizons": {
+        "short": "6 hours",
+        "medium": "2 days",
+        "long": "1 week"
+      },
+      "specific_prediction_text": "50% chance of neutral move to \u20b924657.45 by 6 hours with 139.08 confidence interval",
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "volatility_percentile": 0.3265755039692345,
+      "volume_trend": NaN
+    },
+    "1d": {
+      "timeframe_name": "Daily",
+      "direction_prediction": "NEUTRAL",
+      "confidence_percentage": "50.0%",
+      "risk_level": "HIGH",
+      "current_price_inr": "\u20b924,968.40",
+      "upside_target_inr": "\u20b925,644.59",
+      "downside_target_inr": "\u20b924,292.21",
+      "upside_movement_percent": "+2.71%",
+      "downside_movement_percent": "-2.71%",
+      "upside_probability": "50.0%",
+      "downside_probability": "50.0%",
+      "confidence_interval_lower": "\u20b924,560.84",
+      "confidence_interval_upper": "\u20b925,375.96",
+      "confidence_range": "\u20b9815.11",
+      "expected_move_percent": "2.71%",
+      "time_horizons": {
+        "short": "3 days",
+        "medium": "2 weeks",
+        "long": "1 month"
+      },
+      "specific_prediction_text": "50% chance of neutral move to \u20b924292.21 by 3 days with 407.56 confidence interval",
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "volatility_percentile": 0.6937207940765232,
+      "volume_trend": 0.8371121999481755
+    },
+    "1wk": {
+      "timeframe_name": "Weekly",
+      "direction_prediction": "BULLISH",
+      "confidence_percentage": "66.1%",
+      "risk_level": "HIGH",
+      "current_price_inr": "\u20b924,968.40",
+      "upside_target_inr": "\u20b926,165.63",
+      "downside_target_inr": "\u20b923,771.17",
+      "upside_movement_percent": "+4.79%",
+      "downside_movement_percent": "-4.79%",
+      "upside_probability": "66.1%",
+      "downside_probability": "33.9%",
+      "confidence_interval_lower": "\u20b923,995.78",
+      "confidence_interval_upper": "\u20b925,941.02",
+      "confidence_range": "\u20b91,945.24",
+      "expected_move_percent": "4.79%",
+      "time_horizons": {
+        "short": "2 weeks",
+        "medium": "2 months",
+        "long": "6 months"
+      },
+      "specific_prediction_text": "66% chance of bullish move to \u20b926165.63 by 2 weeks with 972.62 confidence interval",
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "volatility_percentile": 0.5040628184254006,
+      "volume_trend": 1.107102708089617
+    }
+  }
+}

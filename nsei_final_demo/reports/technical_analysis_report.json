@@ -1,0 +1,257 @@
+{
+  "report_type": "TECHNICAL_ANALYSIS",
+  "symbol": "^NSEI",
+  "company_name": "NIFTY 50 Index",
+  "analysis_timestamp": "2025-07-19T05:59:03.146264",
+  "timeframes_analyzed": [
+    "5m",
+    "15m",
+    "1h",
+    "1d",
+    "1wk"
+  ],
+  "technical_indicators": {
+    "5m": {
+      "timeframe": "5-Minute",
+      "indicators_count": 26,
+      "latest_values": {
+        "SMA_5": 24968.63984375,
+        "SMA_10": 24968.03515625,
+        "SMA_20": 24970.29248046875,
+        "SMA_50": 24956.336015625,
+        "EMA_12": 24969.213698065636,
+        "EMA_26": 24966.85647125663,
+        "RSI": 49.302996314693154,
+        "RSI_Overbought": 0.0,
+        "RSI_Oversold": 0.0,
+        "MACD": 2.3572268090065336,
+        "MACD_Signal": 3.4312219230741174,
+        "MACD_Histogram": -1.0739951140675839,
+        "BB_Upper": 24992.024525430326,
+        "BB_Lower": 24948.560435507174,
+        "BB_Width": 0.0017406319912812139,
+        "Stoch_K": 24.117822966507177,
+        "Stoch_D": 28.837719298245606,
+        "Volume_SMA": 0.0,
+        "Volume_Ratio": null,
+        "ROC": -0.08463878047617612,
+        "Momentum": -13.048828125,
+        "ATR": 15.460797991071429,
+        "ATR_Percent": 0.0006192852753996931,
+        "Price_Above_SMA20": 0.0,
+        "Golden_Cross": 1.0,
+        "MA_Bullish_Alignment": 0.0
+      },
+      "signal_summary": {
+        "bullish_signals": 1,
+        "bearish_signals": 1,
+        "overall_bias": "NEUTRAL"
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "WEAK"
+      },
+      "momentum_analysis": {
+        "direction": "BEARISH",
+        "strength": "STRONG"
+      }
+    },
+    "15m": {
+      "timeframe": "15-Minute",
+      "indicators_count": 26,
+      "latest_values": {
+        "SMA_5": 24971.95,
+        "SMA_10": 24965.505078125,
+        "SMA_20": 24954.5951171875,
+        "SMA_50": 25067.3680859375,
+        "EMA_12": 24967.748904675544,
+        "EMA_26": 24993.043710490652,
+        "RSI": 55.00193382323522,
+        "RSI_Overbought": 0.0,
+        "RSI_Oversold": 0.0,
+        "MACD": -25.294805815108703,
+        "MACD_Signal": -35.255002456639964,
+        "MACD_Histogram": 9.960196641531262,
+        "BB_Upper": 24988.6361446982,
+        "BB_Lower": 24920.554089676796,
+        "BB_Width": 0.0027282372124929105,
+        "Stoch_K": 54.00371595595233,
+        "Stoch_D": 58.93339979758617,
+        "Volume_SMA": 0.0,
+        "Volume_Ratio": null,
+        "ROC": 0.10385226023350569,
+        "Momentum": 13.3515625,
+        "ATR": 26.556780133928573,
+        "ATR_Percent": 0.0010637370017037094,
+        "Price_Above_SMA20": 1.0,
+        "Golden_Cross": 0.0,
+        "MA_Bullish_Alignment": 0.0
+      },
+      "signal_summary": {
+        "bullish_signals": 1,
+        "bearish_signals": 0,
+        "overall_bias": "BULLISH"
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "WEAK"
+      },
+      "momentum_analysis": {
+        "direction": "BULLISH",
+        "strength": "STRONG"
+      }
+    },
+    "1h": {
+      "timeframe": "1-Hour",
+      "indicators_count": 26,
+      "latest_values": {
+        "SMA_5": 24957.969921875,
+        "SMA_10": 25014.6548828125,
+        "SMA_20": 25101.3099609375,
+        "SMA_50": 25167.1280078125,
+        "EMA_12": 25025.293176868145,
+        "EMA_26": 25091.162238040444,
+        "RSI": 17.238614144165922,
+        "RSI_Overbought": 0.0,
+        "RSI_Oversold": 1.0,
+        "MACD": -65.86906117229955,
+        "MACD_Signal": -50.80324204842557,
+        "MACD_Histogram": -15.065819123873986,
+        "BB_Upper": 25315.65613494938,
+        "BB_Lower": 24886.96378692562,
+        "BB_Width": 0.017078485094638027,
+        "Stoch_K": 14.79215024266723,
+        "Stoch_D": 15.508821134993473,
+        "Volume_SMA": 0.0,
+        "Volume_Ratio": null,
+        "ROC": -0.8473348957464322,
+        "Momentum": -201.548828125,
+        "ATR": 58.421177455357146,
+        "ATR_Percent": 0.00234007164381222,
+        "Price_Above_SMA20": 0.0,
+        "Golden_Cross": 0.0,
+        "MA_Bullish_Alignment": 0.0
+      },
+      "signal_summary": {
+        "bullish_signals": 1,
+        "bearish_signals": 1,
+        "overall_bias": "NEUTRAL"
+      },
+      "trend_analysis": {
+        "direction": "BEARISH",
+        "strength": "STRONG"
+      },
+      "momentum_analysis": {
+        "direction": "BEARISH",
+        "strength": "STRONG"
+      }
+    },
+    "1d": {
+      "timeframe": "Daily",
+      "indicators_count": 26,
+      "latest_values": {
+        "SMA_5": 25114.000390625,
+        "SMA_10": 25253.5001953125,
+        "SMA_20": 25318.0677734375,
+        "SMA_50": 25035.7890234375,
+        "EMA_12": 25209.79148972226,
+        "EMA_26": 25170.86389504216,
+        "RSI": 24.87976835399344,
+        "RSI_Overbought": 0.0,
+        "RSI_Oversold": 1.0,
+        "MACD": 38.92759468010263,
+        "MACD_Signal": 111.48874758544461,
+        "MACD_Histogram": -72.56115290534198,
+        "BB_Upper": 25742.428163526773,
+        "BB_Lower": 24893.707383348225,
+        "BB_Width": 0.03352233621354727,
+        "Stoch_K": 7.215904905976805,
+        "Stoch_D": 18.36781164628035,
+        "Volume_SMA": 284290.0,
+        "Volume_Ratio": 1.1150585669562771,
+        "ROC": -1.9054428585448813,
+        "Momentum": -492.599609375,
+        "ATR": 158.06780133928572,
+        "ATR_Percent": 0.0063307139771211045,
+        "Price_Above_SMA20": 0.0,
+        "Golden_Cross": 1.0,
+        "MA_Bullish_Alignment": 0.0
+      },
+      "signal_summary": {
+        "bullish_signals": 2,
+        "bearish_signals": 1,
+        "overall_bias": "BULLISH"
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "WEAK"
+      },
+      "momentum_analysis": {
+        "direction": "BEARISH",
+        "strength": "STRONG"
+      }
+    },
+    "1wk": {
+      "timeframe": "Weekly",
+      "indicators_count": 26,
+      "latest_values": {
+        "SMA_5": 25265.890234375,
+        "SMA_10": 25067.4751953125,
+        "SMA_20": 24223.64501953125,
+        "SMA_50": 24202.5409765625,
+        "EMA_12": 24827.59332184606,
+        "EMA_26": 24383.731165782923,
+        "RSI": 70.32858518555628,
+        "RSI_Overbought": 1.0,
+        "RSI_Oversold": 0.0,
+        "MACD": 443.86215606313635,
+        "MACD_Signal": 335.9927433386222,
+        "MACD_Histogram": 107.86941272451418,
+        "BB_Upper": 26234.21914855559,
+        "BB_Lower": 22213.07089050691,
+        "BB_Width": 0.16600095711468985,
+        "Stoch_K": 71.53331857989424,
+        "Stoch_D": 84.33089413579904,
+        "Volume_SMA": 1648580.0,
+        "Volume_Ratio": 0.7824915988305087,
+        "ROC": 3.864708473176348,
+        "Momentum": 960.400390625,
+        "ATR": 603.2353515625,
+        "ATR_Percent": 0.024159951864157047,
+        "Price_Above_SMA20": 1.0,
+        "Golden_Cross": 1.0,
+        "MA_Bullish_Alignment": 0.0
+      },
+      "signal_summary": {
+        "bullish_signals": 2,
+        "bearish_signals": 1,
+        "overall_bias": "BULLISH"
+      },
+      "trend_analysis": {
+        "direction": "BULLISH",
+        "strength": "STRONG"
+      },
+      "momentum_analysis": {
+        "direction": "BULLISH",
+        "strength": "STRONG"
+      }
+    }
+  },
+  "signal_analysis": {
+    "total_bullish_signals": 7,
+    "total_bearish_signals": 4,
+    "overall_bias": "BULLISH",
+    "signal_strength": "MODERATE"
+  },
+  "trend_analysis": {},
+  "momentum_analysis": {},
+  "volatility_analysis": {},
+  "volume_analysis": {},
+  "risk_metrics": {
+    "volatility_risk": "MEDIUM",
+    "trend_risk": "LOW",
+    "liquidity_risk": "LOW",
+    "overall_risk": "MEDIUM"
+  },
+  "trading_signals": {}
+}
