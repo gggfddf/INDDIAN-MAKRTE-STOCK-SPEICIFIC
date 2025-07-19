@@ -1,0 +1,2006 @@
+{
+  "report_type": "PRICE_ACTION_ANALYSIS",
+  "symbol": "^NSEI",
+  "company_name": "NIFTY 50 Index",
+  "analysis_timestamp": "2025-07-19T05:59:03.147225",
+  "timeframes_analyzed": [
+    "5m",
+    "15m",
+    "1h",
+    "1d",
+    "1wk"
+  ],
+  "pattern_analysis": {
+    "5m": {
+      "timeframe": "5-Minute",
+      "total_patterns_detected": 49,
+      "active_patterns_count": 23,
+      "total_pattern_occurrences": 690,
+      "active_patterns": {
+        "Doji": {
+          "total_occurrences": 44,
+          "recent_activity": 2,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.11733333333333333
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 3
+          }
+        },
+        "Hammer": {
+          "total_occurrences": 10,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.02666666666666667
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 0
+          }
+        },
+        "Shooting_Star": {
+          "total_occurrences": 4,
+          "recent_activity": 1,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.010666666666666666
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 4
+          }
+        },
+        "Marubozu_Bull": {
+          "total_occurrences": 2,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.005333333333333333
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 2
+          }
+        },
+        "Marubozu_Bear": {
+          "total_occurrences": 7,
+          "recent_activity": 1,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.018666666666666668
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 0
+          }
+        },
+        "Spinning_Top": {
+          "total_occurrences": 92,
+          "recent_activity": 5,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.24533333333333332
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 3
+          }
+        },
+        "Long_Legged_Doji": {
+          "total_occurrences": 10,
+          "recent_activity": 2,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.02666666666666667
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 2
+          }
+        },
+        "Dragonfly_Doji": {
+          "total_occurrences": 4,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.010666666666666666
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 3
+          }
+        },
+        "Gravestone_Doji": {
+          "total_occurrences": 2,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.005333333333333333
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 0
+          }
+        },
+        "Bullish_Engulfing": {
+          "total_occurrences": 20,
+          "recent_activity": 1,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.05333333333333334
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 0
+          }
+        },
+        "Bearish_Engulfing": {
+          "total_occurrences": 22,
+          "recent_activity": 1,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.058666666666666666
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 1
+          }
+        },
+        "Bullish_Harami": {
+          "total_occurrences": 19,
+          "recent_activity": 2,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.050666666666666665
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 3
+          }
+        },
+        "Bearish_Harami": {
+          "total_occurrences": 19,
+          "recent_activity": 2,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.050666666666666665
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 1
+          }
+        },
+        "Piercing_Pattern": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.0026666666666666666
+          },
+          "seasonality": {
+            "best_hour": 12,
+            "best_day": 4
+          }
+        },
+        "Dark_Cloud_Cover": {
+          "total_occurrences": 2,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.005333333333333333
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 0
+          }
+        },
+        "Morning_Star": {
+          "total_occurrences": 29,
+          "recent_activity": 3,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.07733333333333334
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 0
+          }
+        },
+        "Evening_Star": {
+          "total_occurrences": 21,
+          "recent_activity": 1,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.056
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 3
+          }
+        },
+        "Three_White_Soldiers": {
+          "total_occurrences": 41,
+          "recent_activity": 2,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.10933333333333334
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 1
+          }
+        },
+        "Three_Black_Crows": {
+          "total_occurrences": 51,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.136
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 3
+          }
+        },
+        "High_Volatility_Regime": {
+          "total_occurrences": 6,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.016
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 4
+          }
+        },
+        "Low_Volatility_Regime": {
+          "total_occurrences": 37,
+          "recent_activity": 1,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.09866666666666667
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 1
+          }
+        },
+        "Trend_Acceleration": {
+          "total_occurrences": 185,
+          "recent_activity": 5,
+          "success_rate": 0.01092896174863388,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.49333333333333335
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 3
+          }
+        },
+        "Trend_Deceleration": {
+          "total_occurrences": 62,
+          "recent_activity": 3,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4160447016081875,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.16533333333333333
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 3
+          }
+        }
+      }
+    },
+    "15m": {
+      "timeframe": "15-Minute",
+      "total_patterns_detected": 49,
+      "active_patterns_count": 22,
+      "total_pattern_occurrences": 1098,
+      "active_patterns": {
+        "Doji": {
+          "total_occurrences": 58,
+          "recent_activity": 1,
+          "success_rate": 0.15789473684210525,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.10545454545454545
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 4
+          }
+        },
+        "Hammer": {
+          "total_occurrences": 9,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.016363636363636365
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 1
+          }
+        },
+        "Shooting_Star": {
+          "total_occurrences": 2,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.0036363636363636364
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 0
+          }
+        },
+        "Marubozu_Bull": {
+          "total_occurrences": 10,
+          "recent_activity": 0,
+          "success_rate": 0.1,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.01818181818181818
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 3
+          }
+        },
+        "Marubozu_Bear": {
+          "total_occurrences": 5,
+          "recent_activity": 1,
+          "success_rate": 0.2,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.00909090909090909
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 4
+          }
+        },
+        "Spinning_Top": {
+          "total_occurrences": 156,
+          "recent_activity": 6,
+          "success_rate": 0.19205298013245034,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.28363636363636363
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 3
+          }
+        },
+        "Long_Legged_Doji": {
+          "total_occurrences": 23,
+          "recent_activity": 0,
+          "success_rate": 0.21739130434782608,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.04181818181818182
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 4
+          }
+        },
+        "Dragonfly_Doji": {
+          "total_occurrences": 6,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.01090909090909091
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 1
+          }
+        },
+        "Gravestone_Doji": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.0018181818181818182
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 2
+          }
+        },
+        "Bullish_Engulfing": {
+          "total_occurrences": 27,
+          "recent_activity": 3,
+          "success_rate": 0.16,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.04909090909090909
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 4
+          }
+        },
+        "Bearish_Engulfing": {
+          "total_occurrences": 29,
+          "recent_activity": 0,
+          "success_rate": 0.10344827586206896,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.05272727272727273
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 1
+          }
+        },
+        "Bullish_Harami": {
+          "total_occurrences": 33,
+          "recent_activity": 2,
+          "success_rate": 0.1875,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.06
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 1
+          }
+        },
+        "Bearish_Harami": {
+          "total_occurrences": 26,
+          "recent_activity": 4,
+          "success_rate": 0.18181818181818182,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.04727272727272727
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 4
+          }
+        },
+        "Dark_Cloud_Cover": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.0018181818181818182
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 1
+          }
+        },
+        "Morning_Star": {
+          "total_occurrences": 46,
+          "recent_activity": 1,
+          "success_rate": 0.24444444444444444,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.08363636363636363
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 3
+          }
+        },
+        "Evening_Star": {
+          "total_occurrences": 43,
+          "recent_activity": 2,
+          "success_rate": 0.14634146341463414,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.07818181818181819
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 1
+          }
+        },
+        "Three_White_Soldiers": {
+          "total_occurrences": 54,
+          "recent_activity": 0,
+          "success_rate": 0.16666666666666666,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.09818181818181818
+          },
+          "seasonality": {
+            "best_hour": 12,
+            "best_day": 4
+          }
+        },
+        "Three_Black_Crows": {
+          "total_occurrences": 68,
+          "recent_activity": 2,
+          "success_rate": 0.16176470588235295,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.12363636363636364
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 0
+          }
+        },
+        "Low_Volatility_Regime": {
+          "total_occurrences": 129,
+          "recent_activity": 0,
+          "success_rate": 0.12403100775193798,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.23454545454545456
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 0
+          }
+        },
+        "Momentum_Burst": {
+          "total_occurrences": 2,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.0036363636363636364
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 1
+          }
+        },
+        "Trend_Acceleration": {
+          "total_occurrences": 262,
+          "recent_activity": 17,
+          "success_rate": 0.1553784860557769,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.4763636363636364
+          },
+          "seasonality": {
+            "best_hour": 12,
+            "best_day": 4
+          }
+        },
+        "Trend_Deceleration": {
+          "total_occurrences": 108,
+          "recent_activity": 7,
+          "success_rate": 0.14285714285714285,
+          "breakout_probability": 0.43372412724798737,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.19636363636363635
+          },
+          "seasonality": {
+            "best_hour": 12,
+            "best_day": 4
+          }
+        }
+      }
+    },
+    "1h": {
+      "timeframe": "1-Hour",
+      "total_patterns_detected": 49,
+      "active_patterns_count": 23,
+      "total_pattern_occurrences": 860,
+      "active_patterns": {
+        "Doji": {
+          "total_occurrences": 50,
+          "recent_activity": 1,
+          "success_rate": 0.2857142857142857,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.11160714285714286
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 4
+          }
+        },
+        "Hammer": {
+          "total_occurrences": 9,
+          "recent_activity": 0,
+          "success_rate": 0.1111111111111111,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.020089285714285716
+          },
+          "seasonality": {
+            "best_hour": 12,
+            "best_day": 0
+          }
+        },
+        "Shooting_Star": {
+          "total_occurrences": 5,
+          "recent_activity": 0,
+          "success_rate": 0.2,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.011160714285714286
+          },
+          "seasonality": {
+            "best_hour": 12,
+            "best_day": 4
+          }
+        },
+        "Marubozu_Bull": {
+          "total_occurrences": 3,
+          "recent_activity": 0,
+          "success_rate": 0.3333333333333333,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.006696428571428571
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 0
+          }
+        },
+        "Marubozu_Bear": {
+          "total_occurrences": 5,
+          "recent_activity": 1,
+          "success_rate": 0.4,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.011160714285714286
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 3
+          }
+        },
+        "Spinning_Top": {
+          "total_occurrences": 129,
+          "recent_activity": 6,
+          "success_rate": 0.1968503937007874,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.28794642857142855
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 4
+          }
+        },
+        "Long_Legged_Doji": {
+          "total_occurrences": 13,
+          "recent_activity": 1,
+          "success_rate": 0.16666666666666666,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.029017857142857144
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 1
+          }
+        },
+        "Dragonfly_Doji": {
+          "total_occurrences": 3,
+          "recent_activity": 0,
+          "success_rate": 0.3333333333333333,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.006696428571428571
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 4
+          }
+        },
+        "Gravestone_Doji": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.002232142857142857
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 4
+          }
+        },
+        "Bullish_Engulfing": {
+          "total_occurrences": 13,
+          "recent_activity": 0,
+          "success_rate": 0.23076923076923078,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.029017857142857144
+          },
+          "seasonality": {
+            "best_hour": 13,
+            "best_day": 4
+          }
+        },
+        "Bearish_Engulfing": {
+          "total_occurrences": 28,
+          "recent_activity": 1,
+          "success_rate": 0.1111111111111111,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.0625
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 2
+          }
+        },
+        "Bullish_Harami": {
+          "total_occurrences": 21,
+          "recent_activity": 1,
+          "success_rate": 0.19047619047619047,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.046875
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 3
+          }
+        },
+        "Bearish_Harami": {
+          "total_occurrences": 23,
+          "recent_activity": 0,
+          "success_rate": 0.13043478260869565,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.05133928571428571
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 4
+          }
+        },
+        "Dark_Cloud_Cover": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.002232142857142857
+          },
+          "seasonality": {
+            "best_hour": 14,
+            "best_day": 1
+          }
+        },
+        "Morning_Star": {
+          "total_occurrences": 29,
+          "recent_activity": 3,
+          "success_rate": 0.21428571428571427,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.06473214285714286
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 4
+          }
+        },
+        "Evening_Star": {
+          "total_occurrences": 37,
+          "recent_activity": 2,
+          "success_rate": 0.1388888888888889,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.08258928571428571
+          },
+          "seasonality": {
+            "best_hour": 15,
+            "best_day": 4
+          }
+        },
+        "Three_White_Soldiers": {
+          "total_occurrences": 51,
+          "recent_activity": 3,
+          "success_rate": 0.12,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.11383928571428571
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 0
+          }
+        },
+        "Three_Black_Crows": {
+          "total_occurrences": 58,
+          "recent_activity": 6,
+          "success_rate": 0.24074074074074073,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.12946428571428573
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 3
+          }
+        },
+        "High_Volatility_Regime": {
+          "total_occurrences": 18,
+          "recent_activity": 0,
+          "success_rate": 0.2777777777777778,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.04017857142857143
+          },
+          "seasonality": {
+            "best_hour": 11,
+            "best_day": 1
+          }
+        },
+        "Low_Volatility_Regime": {
+          "total_occurrences": 106,
+          "recent_activity": 0,
+          "success_rate": 0.16037735849056603,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.23660714285714285
+          },
+          "seasonality": {
+            "best_hour": 15,
+            "best_day": 2
+          }
+        },
+        "Momentum_Burst": {
+          "total_occurrences": 4,
+          "recent_activity": 0,
+          "success_rate": 0.25,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.008928571428571428
+          },
+          "seasonality": {
+            "best_hour": 10,
+            "best_day": 0
+          }
+        },
+        "Trend_Acceleration": {
+          "total_occurrences": 192,
+          "recent_activity": 4,
+          "success_rate": 0.17894736842105263,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.42857142857142855
+          },
+          "seasonality": {
+            "best_hour": 9,
+            "best_day": 0
+          }
+        },
+        "Trend_Deceleration": {
+          "total_occurrences": 61,
+          "recent_activity": 1,
+          "success_rate": 0.15,
+          "breakout_probability": 0.4994251285793321,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.13616071428571427
+          },
+          "seasonality": {
+            "best_hour": 15,
+            "best_day": 2
+          }
+        }
+      }
+    },
+    "1d": {
+      "timeframe": "Daily",
+      "total_patterns_detected": 49,
+      "active_patterns_count": 32,
+      "total_pattern_occurrences": 2269,
+      "active_patterns": {
+        "Doji": {
+          "total_occurrences": 47,
+          "recent_activity": 0,
+          "success_rate": 0.23404255319148937,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.09494949494949495
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Hammer": {
+          "total_occurrences": 6,
+          "recent_activity": 0,
+          "success_rate": 0.3333333333333333,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.012121212121212121
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Shooting_Star": {
+          "total_occurrences": 5,
+          "recent_activity": 0,
+          "success_rate": 0.2,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.010101010101010102
+          },
+          "seasonality": {
+            "best_day": 4
+          }
+        },
+        "Marubozu_Bull": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.00202020202020202
+          },
+          "seasonality": {
+            "best_day": 4
+          }
+        },
+        "Marubozu_Bear": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.00202020202020202
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Spinning_Top": {
+          "total_occurrences": 140,
+          "recent_activity": 4,
+          "success_rate": 0.2733812949640288,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.2828282828282828
+          },
+          "seasonality": {
+            "best_day": 2
+          }
+        },
+        "Long_Legged_Doji": {
+          "total_occurrences": 9,
+          "recent_activity": 0,
+          "success_rate": 0.3333333333333333,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.01818181818181818
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Dragonfly_Doji": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.00202020202020202
+          },
+          "seasonality": {
+            "best_day": 2
+          }
+        },
+        "Gravestone_Doji": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.00202020202020202
+          },
+          "seasonality": {
+            "best_day": 4
+          }
+        },
+        "Bullish_Engulfing": {
+          "total_occurrences": 10,
+          "recent_activity": 0,
+          "success_rate": 0.2,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.020202020202020204
+          },
+          "seasonality": {
+            "best_day": 4
+          }
+        },
+        "Bearish_Engulfing": {
+          "total_occurrences": 28,
+          "recent_activity": 2,
+          "success_rate": 0.3333333333333333,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.05656565656565657
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Bullish_Harami": {
+          "total_occurrences": 27,
+          "recent_activity": 1,
+          "success_rate": 0.3333333333333333,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.05454545454545454
+          },
+          "seasonality": {
+            "best_day": 2
+          }
+        },
+        "Bearish_Harami": {
+          "total_occurrences": 11,
+          "recent_activity": 1,
+          "success_rate": 0.2727272727272727,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.022222222222222223
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Piercing_Pattern": {
+          "total_occurrences": 5,
+          "recent_activity": 0,
+          "success_rate": 0.4,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.010101010101010102
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Dark_Cloud_Cover": {
+          "total_occurrences": 4,
+          "recent_activity": 0,
+          "success_rate": 0.25,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.00808080808080808
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Morning_Star": {
+          "total_occurrences": 41,
+          "recent_activity": 1,
+          "success_rate": 0.2682926829268293,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.08282828282828283
+          },
+          "seasonality": {
+            "best_day": 3
+          }
+        },
+        "Evening_Star": {
+          "total_occurrences": 41,
+          "recent_activity": 2,
+          "success_rate": 0.25,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.08282828282828283
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Three_White_Soldiers": {
+          "total_occurrences": 42,
+          "recent_activity": 2,
+          "success_rate": 0.23809523809523808,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.08484848484848485
+          },
+          "seasonality": {
+            "best_day": 3
+          }
+        },
+        "Three_Black_Crows": {
+          "total_occurrences": 29,
+          "recent_activity": 3,
+          "success_rate": 0.10714285714285714,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.05858585858585859
+          },
+          "seasonality": {
+            "best_day": 3
+          }
+        },
+        "Volume_Spike": {
+          "total_occurrences": 7,
+          "recent_activity": 0,
+          "success_rate": 0.42857142857142855,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.014141414141414142
+          },
+          "seasonality": {
+            "best_day": 4
+          }
+        },
+        "Volume_Dry_Up": {
+          "total_occurrences": 7,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.014141414141414142
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Volume_Breakout": {
+          "total_occurrences": 6,
+          "recent_activity": 0,
+          "success_rate": 0.5,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.012121212121212121
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "OBV_Bullish": {
+          "total_occurrences": 284,
+          "recent_activity": 16,
+          "success_rate": 0.26855123674911663,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.5737373737373738
+          },
+          "seasonality": {
+            "best_day": 2
+          }
+        },
+        "OBV_Bearish": {
+          "total_occurrences": 192,
+          "recent_activity": 4,
+          "success_rate": 0.2872340425531915,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.3878787878787879
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "VPT_Bullish": {
+          "total_occurrences": 257,
+          "recent_activity": 17,
+          "success_rate": 0.29411764705882354,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.5191919191919192
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "VPT_Bearish": {
+          "total_occurrences": 218,
+          "recent_activity": 3,
+          "success_rate": 0.2558139534883721,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.4404040404040404
+          },
+          "seasonality": {
+            "best_day": 3
+          }
+        },
+        "Accumulation": {
+          "total_occurrences": 286,
+          "recent_activity": 16,
+          "success_rate": 0.31338028169014087,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.5777777777777777
+          },
+          "seasonality": {
+            "best_day": 2
+          }
+        },
+        "Distribution": {
+          "total_occurrences": 190,
+          "recent_activity": 4,
+          "success_rate": 0.2192513368983957,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.3838383838383838
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "High_Volatility_Regime": {
+          "total_occurrences": 20,
+          "recent_activity": 0,
+          "success_rate": 0.3,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.04040404040404041
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Low_Volatility_Regime": {
+          "total_occurrences": 64,
+          "recent_activity": 18,
+          "success_rate": 0.288135593220339,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.1292929292929293
+          },
+          "seasonality": {
+            "best_day": 4
+          }
+        },
+        "Trend_Acceleration": {
+          "total_occurrences": 228,
+          "recent_activity": 7,
+          "success_rate": 0.2850877192982456,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.46060606060606063
+          },
+          "seasonality": {
+            "best_day": 1
+          }
+        },
+        "Trend_Deceleration": {
+          "total_occurrences": 61,
+          "recent_activity": 3,
+          "success_rate": 0.29508196721311475,
+          "breakout_probability": 0.2932775103036558,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.12323232323232323
+          },
+          "seasonality": {
+            "best_day": 2
+          }
+        }
+      }
+    },
+    "1wk": {
+      "timeframe": "Weekly",
+      "total_patterns_detected": 49,
+      "active_patterns_count": 28,
+      "total_pattern_occurrences": 1140,
+      "active_patterns": {
+        "Doji": {
+          "total_occurrences": 17,
+          "recent_activity": 1,
+          "success_rate": 0.35294117647058826,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.06513409961685823
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Hammer": {
+          "total_occurrences": 2,
+          "recent_activity": 1,
+          "success_rate": 0.5,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.007662835249042145
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Shooting_Star": {
+          "total_occurrences": 2,
+          "recent_activity": 0,
+          "success_rate": 0.5,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.007662835249042145
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Marubozu_Bull": {
+          "total_occurrences": 2,
+          "recent_activity": 1,
+          "success_rate": 0.5,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.007662835249042145
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Marubozu_Bear": {
+          "total_occurrences": 4,
+          "recent_activity": 0,
+          "success_rate": 0.5,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.01532567049808429
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Spinning_Top": {
+          "total_occurrences": 58,
+          "recent_activity": 2,
+          "success_rate": 0.43103448275862066,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.2222222222222222
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Long_Legged_Doji": {
+          "total_occurrences": 6,
+          "recent_activity": 0,
+          "success_rate": 0.5,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.022988505747126436
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Dragonfly_Doji": {
+          "total_occurrences": 3,
+          "recent_activity": 0,
+          "success_rate": 1.0,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.011494252873563218
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Bullish_Engulfing": {
+          "total_occurrences": 12,
+          "recent_activity": 2,
+          "success_rate": 0.16666666666666666,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.04597701149425287
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Bearish_Engulfing": {
+          "total_occurrences": 18,
+          "recent_activity": 1,
+          "success_rate": 0.2777777777777778,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.06896551724137931
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Bullish_Harami": {
+          "total_occurrences": 16,
+          "recent_activity": 1,
+          "success_rate": 0.375,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.06130268199233716
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Bearish_Harami": {
+          "total_occurrences": 8,
+          "recent_activity": 2,
+          "success_rate": 0.375,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.03065134099616858
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Dark_Cloud_Cover": {
+          "total_occurrences": 3,
+          "recent_activity": 1,
+          "success_rate": 1.0,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.011494252873563218
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Morning_Star": {
+          "total_occurrences": 17,
+          "recent_activity": 0,
+          "success_rate": 0.35294117647058826,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.06513409961685823
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Evening_Star": {
+          "total_occurrences": 20,
+          "recent_activity": 2,
+          "success_rate": 0.25,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.07662835249042145
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Three_White_Soldiers": {
+          "total_occurrences": 33,
+          "recent_activity": 2,
+          "success_rate": 0.3939393939393939,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.12643678160919541
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Three_Black_Crows": {
+          "total_occurrences": 12,
+          "recent_activity": 1,
+          "success_rate": 0.45454545454545453,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.04597701149425287
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Volume_Dry_Up": {
+          "total_occurrences": 1,
+          "recent_activity": 0,
+          "success_rate": 0.0,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.0038314176245210726
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Volume_Breakout": {
+          "total_occurrences": 5,
+          "recent_activity": 0,
+          "success_rate": 0.4,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.019157088122605363
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "OBV_Bullish": {
+          "total_occurrences": 198,
+          "recent_activity": 13,
+          "success_rate": 0.3197969543147208,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.7586206896551724
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "OBV_Bearish": {
+          "total_occurrences": 44,
+          "recent_activity": 7,
+          "success_rate": 0.5476190476190477,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "decreasing",
+            "intensity": 0.1685823754789272
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "VPT_Bullish": {
+          "total_occurrences": 184,
+          "recent_activity": 16,
+          "success_rate": 0.32044198895027626,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.7049808429118773
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "VPT_Bearish": {
+          "total_occurrences": 57,
+          "recent_activity": 4,
+          "success_rate": 0.47368421052631576,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.21839080459770116
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Accumulation": {
+          "total_occurrences": 204,
+          "recent_activity": 13,
+          "success_rate": 0.35323383084577115,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "stable",
+            "intensity": 0.7816091954022989
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Distribution": {
+          "total_occurrences": 38,
+          "recent_activity": 7,
+          "success_rate": 0.39473684210526316,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.14559386973180077
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Low_Volatility_Regime": {
+          "total_occurrences": 29,
+          "recent_activity": 0,
+          "success_rate": 0.2413793103448276,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.1111111111111111
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Trend_Acceleration": {
+          "total_occurrences": 99,
+          "recent_activity": 12,
+          "success_rate": 0.37373737373737376,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.3793103448275862
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        },
+        "Trend_Deceleration": {
+          "total_occurrences": 48,
+          "recent_activity": 3,
+          "success_rate": 0.30434782608695654,
+          "breakout_probability": 0.5074399823042952,
+          "pattern_evolution": {
+            "trend": "increasing",
+            "intensity": 0.1839080459770115
+          },
+          "seasonality": {
+            "best_day": 0
+          }
+        }
+      }
+    }
+  },
+  "pattern_success_rates": {},
+  "pattern_evolution": {},
+  "ml_predictions": {
+    "5m": {
+      "timeframe": "5-Minute",
+      "direction_prediction": "NEUTRAL",
+      "confidence": 0.5,
+      "price_targets": {
+        "current_price": 24965.55078125,
+        "upside_target": 25090.948561944067,
+        "downside_target": 24840.153000555933,
+        "upside_probability": 0.5,
+        "downside_probability": 0.5,
+        "confidence_interval_lower": 24943.205731167458,
+        "confidence_interval_upper": 24987.895831332542,
+        "expected_move_percent": 0.5022832534031176
+      },
+      "time_horizons": {
+        "short": "1 hour",
+        "medium": "4 hours",
+        "long": "1 day"
+      },
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "risk_assessment": "HIGH",
+      "volatility_percentile": 0.6318450232000852,
+      "volume_trend": NaN,
+      "prediction_timestamp": "2025-07-19T05:59:03.142471",
+      "specific_prediction": "50% chance of neutral move to \u20b924840.15 by 1 hour with 22.35 confidence interval"
+    },
+    "15m": {
+      "timeframe": "15-Minute",
+      "direction_prediction": "NEUTRAL",
+      "confidence": 0.5,
+      "price_targets": {
+        "current_price": 24965.55078125,
+        "upside_target": 25167.36449977676,
+        "downside_target": 24763.73706272324,
+        "upside_probability": 0.5,
+        "downside_probability": 0.5,
+        "confidence_interval_lower": 24914.362630469437,
+        "confidence_interval_upper": 25016.738932030563,
+        "expected_move_percent": 0.8083687810257599
+      },
+      "time_horizons": {
+        "short": "2 hours",
+        "medium": "8 hours",
+        "long": "2 days"
+      },
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "risk_assessment": "HIGH",
+      "volatility_percentile": 0.4776506053361097,
+      "volume_trend": NaN,
+      "prediction_timestamp": "2025-07-19T05:59:03.143478",
+      "specific_prediction": "50% chance of neutral move to \u20b924763.74 by 2 hours with 51.19 confidence interval"
+    },
+    "1h": {
+      "timeframe": "1-Hour",
+      "direction_prediction": "NEUTRAL",
+      "confidence": 0.5,
+      "price_targets": {
+        "current_price": 24965.55078125,
+        "upside_target": 25273.652314133426,
+        "downside_target": 24657.449248366574,
+        "upside_probability": 0.5,
+        "downside_probability": 0.5,
+        "confidence_interval_lower": 24826.473697279056,
+        "confidence_interval_upper": 25104.627865220944,
+        "expected_move_percent": 1.2341066919894284
+      },
+      "time_horizons": {
+        "short": "6 hours",
+        "medium": "2 days",
+        "long": "1 week"
+      },
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "risk_assessment": "HIGH",
+      "volatility_percentile": 0.3265755039692345,
+      "volume_trend": NaN,
+      "prediction_timestamp": "2025-07-19T05:59:03.144426",
+      "specific_prediction": "50% chance of neutral move to \u20b924657.45 by 6 hours with 139.08 confidence interval"
+    },
+    "1d": {
+      "timeframe": "Daily",
+      "direction_prediction": "NEUTRAL",
+      "confidence": 0.5,
+      "price_targets": {
+        "current_price": 24968.400390625,
+        "upside_target": 25644.594580284185,
+        "downside_target": 24292.206200965815,
+        "upside_probability": 0.5,
+        "downside_probability": 0.5,
+        "confidence_interval_lower": 24560.844420259502,
+        "confidence_interval_upper": 25375.956360990498,
+        "expected_move_percent": 2.708199880970658
+      },
+      "time_horizons": {
+        "short": "3 days",
+        "medium": "2 weeks",
+        "long": "1 month"
+      },
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "risk_assessment": "HIGH",
+      "volatility_percentile": 0.6937207940765232,
+      "volume_trend": 0.8371121999481755,
+      "prediction_timestamp": "2025-07-19T05:59:03.145339",
+      "specific_prediction": "50% chance of neutral move to \u20b924292.21 by 3 days with 407.56 confidence interval"
+    },
+    "1wk": {
+      "timeframe": "Weekly",
+      "direction_prediction": "BULLISH",
+      "confidence": 0.6607102708089617,
+      "price_targets": {
+        "current_price": 24968.400390625,
+        "upside_target": 26165.63044610898,
+        "downside_target": 23771.170335141018,
+        "upside_probability": 0.6607102708089617,
+        "downside_probability": 0.3392897291910383,
+        "confidence_interval_lower": 23995.779595316,
+        "confidence_interval_upper": 25941.021185934,
+        "expected_move_percent": 4.794981003002136
+      },
+      "time_horizons": {
+        "short": "2 weeks",
+        "medium": "2 months",
+        "long": "6 months"
+      },
+      "feature_importance": {
+        "price_momentum": 0.25,
+        "volume_pattern": 0.2,
+        "volatility_regime": 0.18,
+        "technical_indicators": 0.15,
+        "trend_strength": 0.12,
+        "market_structure": 0.1
+      },
+      "risk_assessment": "HIGH",
+      "volatility_percentile": 0.5040628184254006,
+      "volume_trend": 1.107102708089617,
+      "prediction_timestamp": "2025-07-19T05:59:03.146232",
+      "specific_prediction": "66% chance of bullish move to \u20b926165.63 by 2 weeks with 972.62 confidence interval"
+    }
+  },
+  "seasonality_analysis": {},
+  "breakout_analysis": {},
+  "volume_price_relationship": {},
+  "pattern_correlation": {
+    "5m_vs_15m": {
+      "correlation_strength": 0.9565217391304348,
+      "pattern_alignment": "HIGH"
+    },
+    "5m_vs_1h": {
+      "correlation_strength": 1.0,
+      "pattern_alignment": "HIGH"
+    },
+    "5m_vs_1d": {
+      "correlation_strength": 0.71875,
+      "pattern_alignment": "LOW"
+    },
+    "5m_vs_1wk": {
+      "correlation_strength": 0.8214285714285714,
+      "pattern_alignment": "LOW"
+    },
+    "15m_vs_1h": {
+      "correlation_strength": 0.9565217391304348,
+      "pattern_alignment": "HIGH"
+    },
+    "15m_vs_1d": {
+      "correlation_strength": 0.6875,
+      "pattern_alignment": "LOW"
+    },
+    "15m_vs_1wk": {
+      "correlation_strength": 0.7857142857142857,
+      "pattern_alignment": "LOW"
+    },
+    "1h_vs_1d": {
+      "correlation_strength": 0.71875,
+      "pattern_alignment": "LOW"
+    },
+    "1h_vs_1wk": {
+      "correlation_strength": 0.8214285714285714,
+      "pattern_alignment": "LOW"
+    },
+    "1d_vs_1wk": {
+      "correlation_strength": 0.875,
+      "pattern_alignment": "MEDIUM"
+    }
+  },
+  "overall_pattern_strength": {
+    "average_success_rate": 0.20698750466824664,
+    "pattern_reliability": "LOW",
+    "total_active_patterns": 128
+  }
+}

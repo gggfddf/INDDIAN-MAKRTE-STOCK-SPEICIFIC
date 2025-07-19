@@ -1,0 +1,3824 @@
+{
+  "symbol": "^NSEI",
+  "company_name": "NIFTY 50 Index",
+  "analysis_timestamp": "2025-07-19T05:40:26.113408",
+  "pattern_analysis": {
+    "5m": {
+      "timeframe": "5m",
+      "total_patterns": 86,
+      "active_patterns": 48,
+      "pattern_list": [
+        "Doji",
+        "Long_Legged_Doji",
+        "Dragonfly_Doji",
+        "Gravestone_Doji",
+        "Hammer",
+        "Inverted_Hammer",
+        "Hanging_Man",
+        "Shooting_Star",
+        "Marubozu_Bull",
+        "Marubozu_Bear"
+      ]
+    },
+    "15m": {
+      "timeframe": "15m",
+      "total_patterns": 82,
+      "active_patterns": 42,
+      "pattern_list": [
+        "Doji",
+        "Long_Legged_Doji",
+        "Dragonfly_Doji",
+        "Gravestone_Doji",
+        "Hammer",
+        "Inverted_Hammer",
+        "Hanging_Man",
+        "Shooting_Star",
+        "Marubozu_Bull",
+        "Marubozu_Bear"
+      ]
+    },
+    "1h": {
+      "timeframe": "1h",
+      "total_patterns": 84,
+      "active_patterns": 44,
+      "pattern_list": [
+        "Doji",
+        "Long_Legged_Doji",
+        "Dragonfly_Doji",
+        "Gravestone_Doji",
+        "Hammer",
+        "Inverted_Hammer",
+        "Hanging_Man",
+        "Shooting_Star",
+        "Marubozu_Bull",
+        "Marubozu_Bear"
+      ]
+    },
+    "1d": {
+      "timeframe": "1d",
+      "total_patterns": 89,
+      "active_patterns": 61,
+      "pattern_list": [
+        "Doji",
+        "Long_Legged_Doji",
+        "Dragonfly_Doji",
+        "Gravestone_Doji",
+        "Hammer",
+        "Inverted_Hammer",
+        "Hanging_Man",
+        "Shooting_Star",
+        "Marubozu_Bull",
+        "Marubozu_Bear"
+      ]
+    },
+    "1wk": {
+      "timeframe": "1wk",
+      "total_patterns": 84,
+      "active_patterns": 52,
+      "pattern_list": [
+        "Doji",
+        "Long_Legged_Doji",
+        "Dragonfly_Doji",
+        "Hammer",
+        "Inverted_Hammer",
+        "Hanging_Man",
+        "Shooting_Star",
+        "Marubozu_Bull",
+        "Marubozu_Bear",
+        "Spinning_Top"
+      ]
+    }
+  },
+  "success_rates": {
+    "5m": {
+      "Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 44,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.11733333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0731707317073171,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "Long_Legged_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 10,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.02666666666666667
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 2
+        }
+      },
+      "Dragonfly_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.010666666666666666
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "Gravestone_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.005333333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 0
+        }
+      },
+      "Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 10,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.02666666666666667
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.1111111111111112,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 0
+        }
+      },
+      "Inverted_Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.010666666666666666
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 0
+        }
+      },
+      "Hanging_Man": {
+        "success_rate": 0.0,
+        "total_occurrences": 3,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.008
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 2
+        }
+      },
+      "Shooting_Star": {
+        "success_rate": 0.0,
+        "total_occurrences": 4,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.010666666666666666
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 4
+        }
+      },
+      "Marubozu_Bull": {
+        "success_rate": 0.0,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.005333333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 2
+        }
+      },
+      "Marubozu_Bear": {
+        "success_rate": 0.0,
+        "total_occurrences": 7,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.018666666666666668
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 0
+        }
+      },
+      "Spinning_Top": {
+        "success_rate": 0.0,
+        "total_occurrences": 92,
+        "recent_activity": 5,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.24533333333333332
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.373134328358209,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 3
+        }
+      },
+      "Bullish_Harami": {
+        "success_rate": 0.0,
+        "total_occurrences": 19,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.050666666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 3
+        }
+      },
+      "Bearish_Harami": {
+        "success_rate": 0.0,
+        "total_occurrences": 19,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.050666666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "Piercing_Pattern": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.0026666666666666666
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 4
+        }
+      },
+      "Dark_Cloud_Cover": {
+        "success_rate": 0.0,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.005333333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 0
+        }
+      },
+      "Tweezer_Tops": {
+        "success_rate": 0.0,
+        "total_occurrences": 90,
+        "recent_activity": 6,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.24
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 4
+        }
+      },
+      "Tweezer_Bottoms": {
+        "success_rate": 0.011494252873563218,
+        "total_occurrences": 90,
+        "recent_activity": 6,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.24
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 4
+        }
+      },
+      "Three_White_Soldiers": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.0026666666666666666
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 4
+        }
+      },
+      "Three_Inside_Up": {
+        "success_rate": 0.0,
+        "total_occurrences": 14,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.037333333333333336
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "Three_Inside_Down": {
+        "success_rate": 0.0,
+        "total_occurrences": 11,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.029333333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_1": {
+        "success_rate": 0.0,
+        "total_occurrences": 60,
+        "recent_activity": 11,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.16
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.5384615384615385,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "ML_Cluster_2": {
+        "success_rate": 0.030303030303030304,
+        "total_occurrences": 33,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.088
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 3.6666666666666665,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "ML_Cluster_3": {
+        "success_rate": 0.0,
+        "total_occurrences": 23,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.06133333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 3.8333333333333335,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_4": {
+        "success_rate": 0.0,
+        "total_occurrences": 61,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.16266666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 2.1785714285714284,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_5": {
+        "success_rate": 0.0,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.034666666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_6": {
+        "success_rate": 0.0,
+        "total_occurrences": 71,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.18933333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 2.730769230769231,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 2
+        }
+      },
+      "ML_Cluster_7": {
+        "success_rate": 0.0,
+        "total_occurrences": 70,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.18666666666666668
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.75,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_8": {
+        "success_rate": 0.022727272727272728,
+        "total_occurrences": 44,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.11733333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 2.3157894736842106,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      },
+      "ML_Density_1": {
+        "success_rate": 0.0,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.034666666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "ML_Density_2": {
+        "success_rate": 0.0,
+        "total_occurrences": 69,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.184
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.7692307692307692,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 1
+        }
+      },
+      "ML_Density_3": {
+        "success_rate": 0.0,
+        "total_occurrences": 11,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.029333333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.2222222222222223,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 3
+        }
+      },
+      "ML_Density_4": {
+        "success_rate": 0.0,
+        "total_occurrences": 8,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.021333333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.1428571428571428,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 3
+        }
+      },
+      "ML_Density_5": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.016
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.2,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 0
+        }
+      },
+      "ML_Density_6": {
+        "success_rate": 0.0,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.034666666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 2.6,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "ML_Density_7": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.016
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.2,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "ML_Density_8": {
+        "success_rate": 0.0,
+        "total_occurrences": 16,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.042666666666666665
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.3333333333333333,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 3
+        }
+      },
+      "ML_Density_9": {
+        "success_rate": 0.0,
+        "total_occurrences": 12,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.032
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.3333333333333333,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      },
+      "ML_Density_10": {
+        "success_rate": 0.0,
+        "total_occurrences": 35,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.09333333333333334
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.3461538461538463,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 3
+        }
+      },
+      "ML_Density_11": {
+        "success_rate": 0.0,
+        "total_occurrences": 14,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.037333333333333336
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.2727272727272727,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "ML_Density_12": {
+        "success_rate": 0.0,
+        "total_occurrences": 10,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.02666666666666667
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.25,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 1
+        }
+      },
+      "ML_Density_13": {
+        "success_rate": 0.0,
+        "total_occurrences": 59,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.15733333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 2.185185185185185,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 2
+        }
+      },
+      "ML_Density_14": {
+        "success_rate": 0.0,
+        "total_occurrences": 29,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.07733333333333334
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.2608695652173914,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "ML_Density_15": {
+        "success_rate": 0.0,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.013333333333333334
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 2.5,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 3
+        }
+      },
+      "ML_Density_16": {
+        "success_rate": 0.0,
+        "total_occurrences": 12,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.032
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.5,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "ML_Density_17": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.013333333333333334
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.25,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 4
+        }
+      },
+      "ML_Density_18": {
+        "success_rate": 0.0,
+        "total_occurrences": 7,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.018666666666666668
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 2
+        }
+      },
+      "ML_Density_19": {
+        "success_rate": 0.0,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.010666666666666666
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "ML_Anomaly": {
+        "success_rate": 0.0,
+        "total_occurrences": 38,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.10133333333333333
+        },
+        "breakout_probability": 0.4160447016081875,
+        "average_duration": 3.4545454545454546,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 0
+        }
+      }
+    },
+    "15m": {
+      "Doji": {
+        "success_rate": 0.15789473684210525,
+        "total_occurrences": 58,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.10545454545454545
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0175438596491229,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 4
+        }
+      },
+      "Long_Legged_Doji": {
+        "success_rate": 0.21739130434782608,
+        "total_occurrences": 23,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.04181818181818182
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 4
+        }
+      },
+      "Dragonfly_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.01090909090909091
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "Gravestone_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.0018181818181818182
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 2
+        }
+      },
+      "Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 9,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.016363636363636365
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 1
+        }
+      },
+      "Inverted_Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.01090909090909091
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "Hanging_Man": {
+        "success_rate": 0.1,
+        "total_occurrences": 10,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.01818181818181818
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "Shooting_Star": {
+        "success_rate": 0.0,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.0036363636363636364
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "Marubozu_Bull": {
+        "success_rate": 0.1,
+        "total_occurrences": 10,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.01818181818181818
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.1111111111111112,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "Marubozu_Bear": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.00909090909090909
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "Spinning_Top": {
+        "success_rate": 0.19205298013245034,
+        "total_occurrences": 156,
+        "recent_activity": 6,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.28363636363636363
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.278688524590164,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 3
+        }
+      },
+      "Bullish_Harami": {
+        "success_rate": 0.1875,
+        "total_occurrences": 33,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.06
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 1
+        }
+      },
+      "Bearish_Harami": {
+        "success_rate": 0.18181818181818182,
+        "total_occurrences": 26,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.04727272727272727
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "Dark_Cloud_Cover": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.0018181818181818182
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 1
+        }
+      },
+      "Tweezer_Tops": {
+        "success_rate": 0.18045112781954886,
+        "total_occurrences": 138,
+        "recent_activity": 7,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.2509090909090909
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 4
+        }
+      },
+      "Tweezer_Bottoms": {
+        "success_rate": 0.1450381679389313,
+        "total_occurrences": 135,
+        "recent_activity": 7,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.24545454545454545
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "Three_Inside_Up": {
+        "success_rate": 0.2608695652173913,
+        "total_occurrences": 24,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.04363636363636364
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "Three_Inside_Down": {
+        "success_rate": 0.06666666666666667,
+        "total_occurrences": 17,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.03090909090909091
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_1": {
+        "success_rate": 0.2753623188405797,
+        "total_occurrences": 72,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.13090909090909092
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.7560975609756098,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_2": {
+        "success_rate": 0.15555555555555556,
+        "total_occurrences": 46,
+        "recent_activity": 7,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.08363636363636363
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 4.6,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "ML_Cluster_3": {
+        "success_rate": 0.16923076923076924,
+        "total_occurrences": 66,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.12
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.8857142857142857,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_4": {
+        "success_rate": 0.10752688172043011,
+        "total_occurrences": 94,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.1709090909090909
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 2.1363636363636362,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_5": {
+        "success_rate": 0.0,
+        "total_occurrences": 23,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.04181818181818182
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 7.666666666666667,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_6": {
+        "success_rate": 0.24175824175824176,
+        "total_occurrences": 94,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.1709090909090909
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 2.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_7": {
+        "success_rate": 0.2,
+        "total_occurrences": 78,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.14181818181818182
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 2.2941176470588234,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_8": {
+        "success_rate": 0.16883116883116883,
+        "total_occurrences": 77,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.14
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 4.277777777777778,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "ML_Density_1": {
+        "success_rate": 0.0,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.023636363636363636
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      },
+      "ML_Density_2": {
+        "success_rate": 0.24,
+        "total_occurrences": 105,
+        "recent_activity": 5,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.19090909090909092
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 2.1875,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 1
+        }
+      },
+      "ML_Density_3": {
+        "success_rate": 0.3181818181818182,
+        "total_occurrences": 22,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.04
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.2222222222222223,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 0
+        }
+      },
+      "ML_Density_4": {
+        "success_rate": 0.42857142857142855,
+        "total_occurrences": 7,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.012727272727272728
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.1666666666666667,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      },
+      "ML_Density_5": {
+        "success_rate": 0.14285714285714285,
+        "total_occurrences": 165,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.3
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 5.689655172413793,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 0
+        }
+      },
+      "ML_Density_6": {
+        "success_rate": 0.34782608695652173,
+        "total_occurrences": 24,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.04363636363636364
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.411764705882353,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 2
+        }
+      },
+      "ML_Density_7": {
+        "success_rate": 0.13636363636363635,
+        "total_occurrences": 45,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.08181818181818182
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.4516129032258065,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 2
+        }
+      },
+      "ML_Density_8": {
+        "success_rate": 0.16176470588235295,
+        "total_occurrences": 68,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.12363636363636364
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 2.4285714285714284,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "ML_Density_9": {
+        "success_rate": 0.5,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.01090909090909091
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 2.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "ML_Density_10": {
+        "success_rate": 0.18181818181818182,
+        "total_occurrences": 11,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.02
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.1,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "ML_Density_11": {
+        "success_rate": 0.0,
+        "total_occurrences": 10,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.01818181818181818
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.4285714285714286,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "ML_Density_12": {
+        "success_rate": 0.14285714285714285,
+        "total_occurrences": 15,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.02727272727272727
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.5,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 4
+        }
+      },
+      "ML_Density_13": {
+        "success_rate": 0.2857142857142857,
+        "total_occurrences": 7,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.012727272727272728
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.1666666666666667,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "ML_Density_14": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.00909090909090909
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 4
+        }
+      },
+      "ML_Density_15": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.01090909090909091
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 1.2,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "ML_Anomaly": {
+        "success_rate": 0.3090909090909091,
+        "total_occurrences": 55,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.1
+        },
+        "breakout_probability": 0.43372412724798737,
+        "average_duration": 3.235294117647059,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      }
+    },
+    "1h": {
+      "Doji": {
+        "success_rate": 0.2857142857142857,
+        "total_occurrences": 50,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.11160714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.1111111111111112,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 4
+        }
+      },
+      "Long_Legged_Doji": {
+        "success_rate": 0.16666666666666666,
+        "total_occurrences": 13,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.029017857142857144
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 1
+        }
+      },
+      "Dragonfly_Doji": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 3,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.006696428571428571
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 4
+        }
+      },
+      "Gravestone_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.002232142857142857
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "Hammer": {
+        "success_rate": 0.1111111111111111,
+        "total_occurrences": 9,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.020089285714285716
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.125,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 0
+        }
+      },
+      "Inverted_Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.004464285714285714
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 15,
+          "best_day": 0
+        }
+      },
+      "Hanging_Man": {
+        "success_rate": 0.0,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.008928571428571428
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 4
+        }
+      },
+      "Shooting_Star": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.011160714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 4
+        }
+      },
+      "Marubozu_Bull": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 3,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.006696428571428571
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "Marubozu_Bear": {
+        "success_rate": 0.4,
+        "total_occurrences": 5,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.011160714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "Spinning_Top": {
+        "success_rate": 0.1968503937007874,
+        "total_occurrences": 129,
+        "recent_activity": 6,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.28794642857142855
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.4021739130434783,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "Bullish_Harami": {
+        "success_rate": 0.19047619047619047,
+        "total_occurrences": 21,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.046875
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 3
+        }
+      },
+      "Bearish_Harami": {
+        "success_rate": 0.13043478260869565,
+        "total_occurrences": 23,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.05133928571428571
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 4
+        }
+      },
+      "Dark_Cloud_Cover": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.002232142857142857
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 1
+        }
+      },
+      "Tweezer_Tops": {
+        "success_rate": 0.13333333333333333,
+        "total_occurrences": 106,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.23660714285714285
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 15,
+          "best_day": 2
+        }
+      },
+      "Tweezer_Bottoms": {
+        "success_rate": 0.19101123595505617,
+        "total_occurrences": 90,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.20089285714285715
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 2
+        }
+      },
+      "Three_Inside_Up": {
+        "success_rate": 0.15384615384615385,
+        "total_occurrences": 13,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.029017857142857144
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 3
+        }
+      },
+      "Three_Inside_Down": {
+        "success_rate": 0.23076923076923078,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.029017857142857144
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 4
+        }
+      },
+      "ML_Cluster_1": {
+        "success_rate": 0.08823529411764706,
+        "total_occurrences": 68,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.15178571428571427
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 3.238095238095238,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_2": {
+        "success_rate": 0.23809523809523808,
+        "total_occurrences": 87,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.19419642857142858
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 3.107142857142857,
+        "seasonality": {
+          "best_hour": 15,
+          "best_day": 2
+        }
+      },
+      "ML_Cluster_3": {
+        "success_rate": 0.16883116883116883,
+        "total_occurrences": 77,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.171875
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.3333333333333335,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_4": {
+        "success_rate": 0.07692307692307693,
+        "total_occurrences": 26,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.05803571428571429
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 8.666666666666666,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_5": {
+        "success_rate": 0.39285714285714285,
+        "total_occurrences": 33,
+        "recent_activity": 5,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.07366071428571429
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.75,
+        "seasonality": {
+          "best_hour": 15,
+          "best_day": 4
+        }
+      },
+      "ML_Cluster_6": {
+        "success_rate": 0.15714285714285714,
+        "total_occurrences": 70,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.15625
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.1875,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_7": {
+        "success_rate": 0.0,
+        "total_occurrences": 21,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.046875
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 4.2,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_8": {
+        "success_rate": 0.15151515151515152,
+        "total_occurrences": 66,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.14732142857142858
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.2758620689655173,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 2
+        }
+      },
+      "ML_Density_1": {
+        "success_rate": 0.0,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.029017857142857144
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "ML_Density_2": {
+        "success_rate": 0.1,
+        "total_occurrences": 10,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.022321428571428572
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.25,
+        "seasonality": {
+          "best_hour": 12,
+          "best_day": 1
+        }
+      },
+      "ML_Density_3": {
+        "success_rate": 0.1724137931034483,
+        "total_occurrences": 58,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.12946428571428573
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.1481481481481484,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 2
+        }
+      },
+      "ML_Density_4": {
+        "success_rate": 0.23076923076923078,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.029017857142857144
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0833333333333333,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "ML_Density_5": {
+        "success_rate": 0.14285714285714285,
+        "total_occurrences": 14,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.03125
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.2727272727272727,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "ML_Density_6": {
+        "success_rate": 0.3,
+        "total_occurrences": 11,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.024553571428571428
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.1,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 1
+        }
+      },
+      "ML_Density_7": {
+        "success_rate": 0.14925373134328357,
+        "total_occurrences": 67,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.14955357142857142
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.310344827586207,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 3
+        }
+      },
+      "ML_Density_8": {
+        "success_rate": 0.14893617021276595,
+        "total_occurrences": 47,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.10491071428571429
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.88,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      },
+      "ML_Density_9": {
+        "success_rate": 0.08333333333333333,
+        "total_occurrences": 36,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.08035714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 0
+        }
+      },
+      "ML_Density_10": {
+        "success_rate": 0.21052631578947367,
+        "total_occurrences": 19,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.04241071428571429
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.1875,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 2
+        }
+      },
+      "ML_Density_11": {
+        "success_rate": 0.2413793103448276,
+        "total_occurrences": 59,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.13169642857142858
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.107142857142857,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 2
+        }
+      },
+      "ML_Density_12": {
+        "success_rate": 0.2,
+        "total_occurrences": 8,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.017857142857142856
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.3333333333333333,
+        "seasonality": {
+          "best_hour": 15,
+          "best_day": 4
+        }
+      },
+      "ML_Density_13": {
+        "success_rate": 0.2857142857142857,
+        "total_occurrences": 7,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.015625
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 3.5,
+        "seasonality": {
+          "best_hour": 14,
+          "best_day": 4
+        }
+      },
+      "ML_Density_14": {
+        "success_rate": 0.0,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.011160714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.6666666666666667,
+        "seasonality": {
+          "best_hour": 10,
+          "best_day": 1
+        }
+      },
+      "ML_Density_15": {
+        "success_rate": 0.0,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.011160714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 11,
+          "best_day": 1
+        }
+      },
+      "ML_Density_16": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.011160714285714286
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 3
+        }
+      },
+      "ML_Density_17": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.013392857142857142
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.0,
+        "seasonality": {
+          "best_hour": 13,
+          "best_day": 4
+        }
+      },
+      "ML_Anomaly": {
+        "success_rate": 0.1111111111111111,
+        "total_occurrences": 45,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.10044642857142858
+        },
+        "breakout_probability": 0.4994251285793321,
+        "average_duration": 2.6470588235294117,
+        "seasonality": {
+          "best_hour": 9,
+          "best_day": 0
+        }
+      }
+    },
+    "1d": {
+      "Doji": {
+        "success_rate": 0.23404255319148937,
+        "total_occurrences": 47,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.09494949494949495
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.119047619047619,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Long_Legged_Doji": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 9,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.01818181818181818
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.125,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Dragonfly_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.00202020202020202
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "Gravestone_Doji": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.00202020202020202
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 4
+        }
+      },
+      "Hammer": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "Inverted_Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.00404040404040404
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "Hanging_Man": {
+        "success_rate": 0.2,
+        "total_occurrences": 10,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.020202020202020204
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Shooting_Star": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.010101010101010102
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 4
+        }
+      },
+      "Marubozu_Bull": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.00202020202020202
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 4
+        }
+      },
+      "Marubozu_Bear": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.00202020202020202
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "Spinning_Top": {
+        "success_rate": 0.2733812949640288,
+        "total_occurrences": 140,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.2828282828282828
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.3461538461538463,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "Bullish_Engulfing": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "Bearish_Engulfing": {
+        "success_rate": 0.23529411764705882,
+        "total_occurrences": 18,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.03636363636363636
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "Bullish_Harami": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 27,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.05454545454545454
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "Bearish_Harami": {
+        "success_rate": 0.2727272727272727,
+        "total_occurrences": 11,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.022222222222222223
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Piercing_Pattern": {
+        "success_rate": 0.4,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.010101010101010102
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Dark_Cloud_Cover": {
+        "success_rate": 0.25,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.00808080808080808
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "Tweezer_Tops": {
+        "success_rate": 0.34375,
+        "total_occurrences": 65,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.13131313131313133
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "Tweezer_Bottoms": {
+        "success_rate": 0.2564102564102564,
+        "total_occurrences": 39,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.07878787878787878
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "Evening_Doji_Star": {
+        "success_rate": 1.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.00202020202020202
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "Three_Inside_Up": {
+        "success_rate": 0.15789473684210525,
+        "total_occurrences": 19,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.03838383838383838
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "Three_Inside_Down": {
+        "success_rate": 0.125,
+        "total_occurrences": 8,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.01616161616161616
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Three_Outside_Up": {
+        "success_rate": 1.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.00202020202020202
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "Three_Outside_Down": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 4
+        }
+      },
+      "Ascending_Triangle": {
+        "success_rate": 0.1875,
+        "total_occurrences": 164,
+        "recent_activity": 19,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.33131313131313134
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 18.22222222222222,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_1": {
+        "success_rate": 0.2318840579710145,
+        "total_occurrences": 70,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.1414141414141414
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 2.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_2": {
+        "success_rate": 0.2972972972972973,
+        "total_occurrences": 74,
+        "recent_activity": 8,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.1494949494949495
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 2.0555555555555554,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_3": {
+        "success_rate": 0.2777777777777778,
+        "total_occurrences": 54,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.10909090909090909
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 4.909090909090909,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_4": {
+        "success_rate": 0.05263157894736842,
+        "total_occurrences": 19,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.03838383838383838
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 9.5,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_5": {
+        "success_rate": 0.3058823529411765,
+        "total_occurrences": 87,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.17575757575757575
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.9772727272727273,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "ML_Cluster_6": {
+        "success_rate": 0.25,
+        "total_occurrences": 54,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.10909090909090909
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 3.0,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Cluster_7": {
+        "success_rate": 0.25842696629213485,
+        "total_occurrences": 89,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.1797979797979798
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.934782608695652,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Cluster_8": {
+        "success_rate": 0.2916666666666667,
+        "total_occurrences": 48,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.09696969696969697
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 2.2857142857142856,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "ML_Density_1": {
+        "success_rate": 0.0,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.026262626262626262
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Density_2": {
+        "success_rate": 0.125,
+        "total_occurrences": 8,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.01616161616161616
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_3": {
+        "success_rate": 0.3,
+        "total_occurrences": 20,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.04040404040404041
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.25,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Density_4": {
+        "success_rate": 0.25,
+        "total_occurrences": 13,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.026262626262626262
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.1818181818181819,
+        "seasonality": {
+          "best_day": 4
+        }
+      },
+      "ML_Density_5": {
+        "success_rate": 0.29838709677419356,
+        "total_occurrences": 126,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.2545454545454545
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 2.3773584905660377,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Density_6": {
+        "success_rate": 0.0,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_7": {
+        "success_rate": 0.3125,
+        "total_occurrences": 16,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.03232323232323232
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.1428571428571428,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_8": {
+        "success_rate": 0.3181818181818182,
+        "total_occurrences": 22,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.044444444444444446
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.6923076923076923,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Density_9": {
+        "success_rate": 0.25,
+        "total_occurrences": 8,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.01616161616161616
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.6,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_10": {
+        "success_rate": 0.6,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.010101010101010102
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_11": {
+        "success_rate": 0.17391304347826086,
+        "total_occurrences": 23,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.046464646464646465
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.15,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_12": {
+        "success_rate": 0.1724137931034483,
+        "total_occurrences": 29,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.05858585858585859
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.2083333333333333,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Density_13": {
+        "success_rate": 0.28,
+        "total_occurrences": 25,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.050505050505050504
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.1904761904761905,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_14": {
+        "success_rate": 0.29411764705882354,
+        "total_occurrences": 17,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.03434343434343434
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.5454545454545454,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_15": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "ML_Density_16": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 3,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.006060606060606061
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.5,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Density_17": {
+        "success_rate": 0.2857142857142857,
+        "total_occurrences": 7,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.014141414141414142
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_18": {
+        "success_rate": 0.42105263157894735,
+        "total_occurrences": 19,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.03838383838383838
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.4615384615384615,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_19": {
+        "success_rate": 0.08333333333333333,
+        "total_occurrences": 12,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.024242424242424242
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0909090909090908,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_20": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 6,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 3
+        }
+      },
+      "ML_Density_21": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.010101010101010102
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 2.5,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_22": {
+        "success_rate": 0.2,
+        "total_occurrences": 5,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.010101010101010102
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 1
+        }
+      },
+      "ML_Anomaly": {
+        "success_rate": 0.18,
+        "total_occurrences": 50,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.10101010101010101
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 2.9411764705882355,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Volume_Spike": {
+        "success_rate": 0.42857142857142855,
+        "total_occurrences": 7,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.014141414141414142
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 4
+        }
+      },
+      "Volume_Dry_Up": {
+        "success_rate": 0.0,
+        "total_occurrences": 7,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.014141414141414142
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.4,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Volume_Breakout": {
+        "success_rate": 0.5,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.012121212121212121
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 1.5,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "OBV_Bullish": {
+        "success_rate": 0.26855123674911663,
+        "total_occurrences": 284,
+        "recent_activity": 16,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.5737373737373738
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 9.161290322580646,
+        "seasonality": {
+          "best_day": 2
+        }
+      },
+      "OBV_Bearish": {
+        "success_rate": 0.2872340425531915,
+        "total_occurrences": 192,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.3878787878787879
+        },
+        "breakout_probability": 0.2932775103036558,
+        "average_duration": 6.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      }
+    },
+    "1wk": {
+      "Doji": {
+        "success_rate": 0.35294117647058826,
+        "total_occurrences": 17,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.06513409961685823
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.2142857142857142,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Long_Legged_Doji": {
+        "success_rate": 0.5,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.022988505747126436
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.2,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Dragonfly_Doji": {
+        "success_rate": 1.0,
+        "total_occurrences": 3,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.011494252873563218
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Hammer": {
+        "success_rate": 0.5,
+        "total_occurrences": 2,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.007662835249042145
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Inverted_Hammer": {
+        "success_rate": 0.0,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.01532567049808429
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Hanging_Man": {
+        "success_rate": 0.5,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.01532567049808429
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Shooting_Star": {
+        "success_rate": 0.5,
+        "total_occurrences": 2,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.007662835249042145
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Marubozu_Bull": {
+        "success_rate": 0.5,
+        "total_occurrences": 2,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.007662835249042145
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Marubozu_Bear": {
+        "success_rate": 0.5,
+        "total_occurrences": 4,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.01532567049808429
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Spinning_Top": {
+        "success_rate": 0.43103448275862066,
+        "total_occurrences": 58,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.2222222222222222
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.288888888888889,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Bullish_Engulfing": {
+        "success_rate": 0.125,
+        "total_occurrences": 8,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.03065134099616858
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Bearish_Engulfing": {
+        "success_rate": 0.3076923076923077,
+        "total_occurrences": 13,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.04980842911877394
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Bullish_Harami": {
+        "success_rate": 0.375,
+        "total_occurrences": 16,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.06130268199233716
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Bearish_Harami": {
+        "success_rate": 0.375,
+        "total_occurrences": 8,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.03065134099616858
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Dark_Cloud_Cover": {
+        "success_rate": 1.0,
+        "total_occurrences": 3,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.011494252873563218
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Tweezer_Tops": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 16,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.06130268199233716
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Tweezer_Bottoms": {
+        "success_rate": 0.14285714285714285,
+        "total_occurrences": 14,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.05363984674329502
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Three_Inside_Up": {
+        "success_rate": 0.42857142857142855,
+        "total_occurrences": 14,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.05363984674329502
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Three_Inside_Down": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 3,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.011494252873563218
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Three_Outside_Up": {
+        "success_rate": 0.2857142857142857,
+        "total_occurrences": 7,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.02681992337164751
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Three_Outside_Down": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.022988505747126436
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Ascending_Triangle": {
+        "success_rate": 0.375,
+        "total_occurrences": 16,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.06130268199233716
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 16.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_1": {
+        "success_rate": 0.41025641025641024,
+        "total_occurrences": 42,
+        "recent_activity": 6,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.16091954022988506
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.210526315789474,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_2": {
+        "success_rate": 0.5,
+        "total_occurrences": 22,
+        "recent_activity": 3,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.0842911877394636
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 3.6666666666666665,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_3": {
+        "success_rate": 0.38461538461538464,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.04980842911877394
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_4": {
+        "success_rate": 0.38095238095238093,
+        "total_occurrences": 42,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.16091954022988506
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.826086956521739,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_5": {
+        "success_rate": 0.35135135135135137,
+        "total_occurrences": 37,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.1417624521072797
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.176470588235294,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_6": {
+        "success_rate": 0.5263157894736842,
+        "total_occurrences": 38,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.14559386973180077
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.7142857142857144,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_7": {
+        "success_rate": 0.23529411764705882,
+        "total_occurrences": 17,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.06513409961685823
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.125,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Cluster_8": {
+        "success_rate": 0.24,
+        "total_occurrences": 50,
+        "recent_activity": 4,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.19157088122605365
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.0833333333333335,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_1": {
+        "success_rate": 0.38461538461538464,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.04980842911877394
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 13.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_2": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 10,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.038314176245210725
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_3": {
+        "success_rate": 0.375,
+        "total_occurrences": 24,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.09195402298850575
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_4": {
+        "success_rate": 0.4,
+        "total_occurrences": 11,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.0421455938697318
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.2222222222222223,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_5": {
+        "success_rate": 0.2222222222222222,
+        "total_occurrences": 9,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.034482758620689655
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.5,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_6": {
+        "success_rate": 0.2857142857142857,
+        "total_occurrences": 14,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.05363984674329502
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.2727272727272727,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_7": {
+        "success_rate": 0.4,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.019157088122605363
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_8": {
+        "success_rate": 0.0,
+        "total_occurrences": 10,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.038314176245210725
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.1111111111111112,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_9": {
+        "success_rate": 0.5555555555555556,
+        "total_occurrences": 9,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.034482758620689655
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.125,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_10": {
+        "success_rate": 0.4444444444444444,
+        "total_occurrences": 9,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.034482758620689655
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_11": {
+        "success_rate": 0.46153846153846156,
+        "total_occurrences": 13,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.04980842911877394
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0833333333333333,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_12": {
+        "success_rate": 0.0,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.019157088122605363
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.25,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_13": {
+        "success_rate": 0.4444444444444444,
+        "total_occurrences": 9,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.034482758620689655
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.125,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_14": {
+        "success_rate": 0.5,
+        "total_occurrences": 6,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.022988505747126436
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.2,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_15": {
+        "success_rate": 0.5714285714285714,
+        "total_occurrences": 7,
+        "recent_activity": 1,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.02681992337164751
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_16": {
+        "success_rate": 0.0,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.019157088122605363
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.6666666666666667,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Density_17": {
+        "success_rate": 0.3333333333333333,
+        "total_occurrences": 9,
+        "recent_activity": 2,
+        "pattern_evolution": {
+          "trend": "stable",
+          "intensity": 0.034482758620689655
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.125,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "ML_Anomaly": {
+        "success_rate": 0.6153846153846154,
+        "total_occurrences": 26,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.09961685823754789
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 6.5,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Volume_Dry_Up": {
+        "success_rate": 0.0,
+        "total_occurrences": 1,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.0038314176245210726
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "Volume_Breakout": {
+        "success_rate": 0.4,
+        "total_occurrences": 5,
+        "recent_activity": 0,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.019157088122605363
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 1.0,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "OBV_Bullish": {
+        "success_rate": 0.3197969543147208,
+        "total_occurrences": 198,
+        "recent_activity": 13,
+        "pattern_evolution": {
+          "trend": "increasing",
+          "intensity": 0.7586206896551724
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 9.9,
+        "seasonality": {
+          "best_day": 0
+        }
+      },
+      "OBV_Bearish": {
+        "success_rate": 0.5476190476190477,
+        "total_occurrences": 44,
+        "recent_activity": 7,
+        "pattern_evolution": {
+          "trend": "decreasing",
+          "intensity": 0.1685823754789272
+        },
+        "breakout_probability": 0.5074399823042952,
+        "average_duration": 2.2,
+        "seasonality": {
+          "best_day": 0
+        }
+      }
+    }
+  },
+  "pattern_evolution": {},
+  "seasonality_analysis": {},
+  "ml_predictions": {
+    "5m": {
+      "direction_prediction": "BEARISH",
+      "confidence": 0.6,
+      "price_targets": {
+        "upside_target": 25090.378535156247,
+        "downside_target": 24840.72302734375,
+        "confidence_interval": [
+          24954.1502454936,
+          24976.951317006402
+        ]
+      },
+      "time_horizons": {
+        "short": "1 hour",
+        "medium": "4 hours",
+        "long": "1 day"
+      },
+      "feature_importance": {
+        "trend": 0.5,
+        "volume": 0.3,
+        "volatility": 0.2
+      },
+      "risk_assessment": "MEDIUM"
+    },
+    "15m": {
+      "direction_prediction": "BULLISH",
+      "confidence": 0.6,
+      "price_targets": {
+        "upside_target": 25090.378535156247,
+        "downside_target": 24840.72302734375,
+        "confidence_interval": [
+          24939.43437779053,
+          24991.667184709473
+        ]
+      },
+      "time_horizons": {
+        "short": "2 hours",
+        "medium": "8 hours",
+        "long": "2 days"
+      },
+      "feature_importance": {
+        "trend": 0.5,
+        "volume": 0.3,
+        "volatility": 0.2
+      },
+      "risk_assessment": "MEDIUM"
+    },
+    "1h": {
+      "direction_prediction": "BEARISH",
+      "confidence": 0.6,
+      "price_targets": {
+        "upside_target": 25215.206289062502,
+        "downside_target": 24715.895273437498,
+        "confidence_interval": [
+          24894.593085346456,
+          25036.508477153544
+        ]
+      },
+      "time_horizons": {
+        "short": "6 hours",
+        "medium": "2 days",
+        "long": "1 week"
+      },
+      "feature_importance": {
+        "trend": 0.5,
+        "volume": 0.3,
+        "volatility": 0.2
+      },
+      "risk_assessment": "MEDIUM"
+    },
+    "1d": {
+      "direction_prediction": "BEARISH",
+      "confidence": 0.6,
+      "price_targets": {
+        "upside_target": 25467.7683984375,
+        "downside_target": 24469.0323828125,
+        "confidence_interval": [
+          24760.463671050766,
+          25176.33711019923
+        ]
+      },
+      "time_horizons": {
+        "short": "3 days",
+        "medium": "2 weeks",
+        "long": "1 month"
+      },
+      "feature_importance": {
+        "trend": 0.5,
+        "volume": 0.3,
+        "volatility": 0.2
+      },
+      "risk_assessment": "MEDIUM"
+    },
+    "1wk": {
+      "direction_prediction": "BULLISH",
+      "confidence": 0.6,
+      "price_targets": {
+        "upside_target": 25717.45240234375,
+        "downside_target": 24219.34837890625,
+        "confidence_interval": [
+          24472.16529097755,
+          25464.63549027245
+        ]
+      },
+      "time_horizons": {
+        "short": "2 weeks",
+        "medium": "2 months",
+        "long": "6 months"
+      },
+      "feature_importance": {
+        "trend": 0.5,
+        "volume": 0.3,
+        "volatility": 0.2
+      },
+      "risk_assessment": "MEDIUM"
+    }
+  },
+  "cross_timeframe_signals": {
+    "alignment": {
+      "bullish": 2,
+      "bearish": 3,
+      "neutral": 0
+    },
+    "strength": "WEAK",
+    "conflicts": "MODERATE_CONFLICT"
+  }
+}

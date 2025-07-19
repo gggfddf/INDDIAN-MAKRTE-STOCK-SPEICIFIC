@@ -1,0 +1,103 @@
+{
+  "symbol": "^NSEI",
+  "company_name": "NIFTY 50 Index",
+  "analysis_timestamp": "2025-07-19T05:40:26.112755",
+  "timeframe_analysis": {
+    "5m": {
+      "timeframe": "5m",
+      "indicators_count": 25,
+      "key_levels": {
+        "support": [],
+        "resistance": []
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      },
+      "momentum_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      }
+    },
+    "15m": {
+      "timeframe": "15m",
+      "indicators_count": 25,
+      "key_levels": {
+        "support": [],
+        "resistance": []
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      },
+      "momentum_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      }
+    },
+    "1h": {
+      "timeframe": "1h",
+      "indicators_count": 25,
+      "key_levels": {
+        "support": [],
+        "resistance": []
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      },
+      "momentum_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      }
+    },
+    "1d": {
+      "timeframe": "1d",
+      "indicators_count": 25,
+      "key_levels": {
+        "support": [],
+        "resistance": []
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      },
+      "momentum_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      }
+    },
+    "1wk": {
+      "timeframe": "1wk",
+      "indicators_count": 25,
+      "key_levels": {
+        "support": [],
+        "resistance": []
+      },
+      "trend_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      },
+      "momentum_analysis": {
+        "direction": "NEUTRAL",
+        "strength": "MEDIUM"
+      }
+    }
+  },
+  "overall_technical_summary": {
+    "overall_trend": "NEUTRAL",
+    "key_resistance_levels": [],
+    "key_support_levels": [],
+    "momentum_score": 0.5
+  },
+  "indicator_signals": {
+    "bullish_signals": 0,
+    "bearish_signals": 0,
+    "neutral_signals": 0
+  },
+  "risk_metrics": {
+    "volatility_risk": "MEDIUM",
+    "trend_risk": "LOW",
+    "momentum_risk": "MEDIUM"
+  }
+}
