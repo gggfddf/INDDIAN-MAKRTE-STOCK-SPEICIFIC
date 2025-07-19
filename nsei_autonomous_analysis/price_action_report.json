@@ -1,0 +1,184 @@
+{
+  "symbol": "^NSEI",
+  "company_name": "NIFTY 50 Index",
+  "analysis_timestamp": "2025-07-19T04:51:10.566844",
+  "timeframe": "Daily",
+  "current_price": 24968.400390625,
+  "pattern_analysis": {
+    "total_patterns_detected": 1011,
+    "pattern_details": {
+      "Doji": {
+        "count": 19,
+        "last_occurrence": "2025-06-19",
+        "recent_activity": 0
+      },
+      "Hammer": {
+        "count": 4,
+        "last_occurrence": "2025-04-23",
+        "recent_activity": 0
+      },
+      "Shooting_Star": {
+        "count": 4,
+        "last_occurrence": "2025-05-09",
+        "recent_activity": 0
+      },
+      "Hanging_Man": {
+        "count": 4,
+        "last_occurrence": "2025-07-04",
+        "recent_activity": 1
+      },
+      "Inverted_Hammer": {
+        "count": 1,
+        "last_occurrence": "2024-10-09",
+        "recent_activity": 0
+      },
+      "Marubozu": {
+        "count": 1,
+        "last_occurrence": "2025-05-20",
+        "recent_activity": 0
+      },
+      "Spinning_Top": {
+        "count": 68,
+        "last_occurrence": "2025-07-16",
+        "recent_activity": 4
+      },
+      "Engulfing_Bull": {
+        "count": 3,
+        "last_occurrence": "2025-06-20",
+        "recent_activity": 0
+      },
+      "Engulfing_Bear": {
+        "count": 12,
+        "last_occurrence": "2025-07-17",
+        "recent_activity": 2
+      },
+      "Harami": {
+        "count": 70,
+        "last_occurrence": "2025-07-09",
+        "recent_activity": 3
+      },
+      "Piercing": {
+        "count": 3,
+        "last_occurrence": "2025-03-17",
+        "recent_activity": 0
+      },
+      "Dark_Cloud": {
+        "count": 5,
+        "last_occurrence": "2025-06-30",
+        "recent_activity": 1
+      },
+      "Morning_Star": {
+        "count": 5,
+        "last_occurrence": "2025-06-20",
+        "recent_activity": 0
+      },
+      "Evening_Star": {
+        "count": 9,
+        "last_occurrence": "2025-06-12",
+        "recent_activity": 0
+      },
+      "Three_White_Soldiers": {
+        "count": 16,
+        "last_occurrence": "2025-07-08",
+        "recent_activity": 2
+      },
+      "Three_Black_Crows": {
+        "count": 30,
+        "last_occurrence": "2025-07-14",
+        "recent_activity": 4
+      },
+      "ML_Pattern_Cluster_A": {
+        "count": 46,
+        "last_occurrence": "2025-07-14",
+        "recent_activity": 2
+      },
+      "ML_Pattern_Cluster_B": {
+        "count": 4,
+        "last_occurrence": "2024-11-01",
+        "recent_activity": 0
+      },
+      "ML_Pattern_Cluster_C": {
+        "count": 56,
+        "last_occurrence": "2025-07-17",
+        "recent_activity": 8
+      },
+      "ML_Density_Pattern_1": {
+        "count": 20,
+        "last_occurrence": "2024-11-01",
+        "recent_activity": 0
+      },
+      "ML_Density_Pattern_2": {
+        "count": 231,
+        "last_occurrence": "2025-07-18",
+        "recent_activity": 20
+      },
+      "ML_Anomaly_Pattern": {
+        "count": 25,
+        "last_occurrence": "2025-05-15",
+        "recent_activity": 0
+      },
+      "Head_Shoulders": {
+        "count": 46,
+        "last_occurrence": "2024-11-07",
+        "recent_activity": 0
+      },
+      "Ascending_Triangle": {
+        "count": 117,
+        "last_occurrence": "2025-07-18",
+        "recent_activity": 20
+      },
+      "Descending_Triangle": {
+        "count": 90,
+        "last_occurrence": "2025-06-11",
+        "recent_activity": 0
+      },
+      "Trend_Reversal": {
+        "count": 25,
+        "last_occurrence": "2025-04-11",
+        "recent_activity": 0
+      },
+      "Volume_Spike": {
+        "count": 3,
+        "last_occurrence": "2025-05-30",
+        "recent_activity": 0
+      },
+      "Volume_Dry_Up": {
+        "count": 1,
+        "last_occurrence": "2024-11-01",
+        "recent_activity": 0
+      },
+      "Volume_Price_Divergence": {
+        "count": 63,
+        "last_occurrence": "2025-07-16",
+        "recent_activity": 7
+      },
+      "Volume_Confirmation": {
+        "count": 7,
+        "last_occurrence": "2025-06-27",
+        "recent_activity": 1
+      },
+      "Accumulation_Pattern": {
+        "count": 22,
+        "last_occurrence": "2025-06-27",
+        "recent_activity": 2
+      },
+      "Distribution_Pattern": {
+        "count": 1,
+        "last_occurrence": "2025-04-07",
+        "recent_activity": 0
+      }
+    },
+    "pattern_diversity_score": 1.0
+  },
+  "support_resistance": {
+    "key_resistance": 25669.349609375,
+    "key_support": 24473.0,
+    "current_position": "Above Support"
+  },
+  "price_action_predictions": {
+    "breakout_probability": "17.7%",
+    "pattern_completion": "High",
+    "next_major_move": "Downward",
+    "confidence": "93.8%"
+  }
+}
